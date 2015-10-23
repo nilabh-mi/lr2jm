@@ -1,0 +1,1 @@
+This is a perl script to convert a LoadRunner test script to a JMeter .jmx script
